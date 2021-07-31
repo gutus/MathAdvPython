@@ -1,4 +1,8 @@
 # Python for Math
+# Python untuk menyelesaikan persamaan matematis dengan memanfaatkan library python
+# Diambil dari buku MATH ADVENTURES WITH PYTHON
+# AN ILLUSTRATED GUIDE TO EXPLORING MATH WITH CODE
+# BY PETER FARRELL
 
 import math
 
