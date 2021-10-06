@@ -8,5 +8,5 @@ def mySum2(num):
     return running_sum
 
 
-sum = mySum2(20)
+sum = mySum2(10000)
 print(sum)
