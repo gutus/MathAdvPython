@@ -9,6 +9,10 @@ def square():
         right(90)
         forward(100)
         right(90)
+        forward(100)
+        right(90)
+        forward(100)
+        right(90)
         right(5)
 
 
