@@ -8,4 +8,5 @@ def mySum2(num):
     return running_sum
 
 
-mySum2(20)
+sum = mySum2(20)
+print(sum)
