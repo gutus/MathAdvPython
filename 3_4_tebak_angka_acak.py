@@ -3,6 +3,11 @@
 from random import randint
 
 
+def salam():
+    nama = input("Hai, nama kamu siapa? ")
+    print(f"Hai {nama}, selamat datang di game tebak angka :D ")
+
+
 def tebakAngka():
     tebakan = int(
         input("Masukkan angka tebakan anda antara 1 hingga 100 >>>  "))
@@ -17,4 +22,5 @@ def tebakAngka():
         print("Tebakanmu terlalu rendah")
 
 
+salam()
 tebakAngka()
