@@ -13,7 +13,8 @@ def squareRoot(num, lo, hi):
             hi = tebak
         else:
             lo = tebak  # Jika tebakan ketinggian angka tebakan akan  diiterate dijadikan tebakan lo, amazing!
-    print(tebak)
+    print(
+        f"Hasil iterate sebanyak 20 kali, untuk akar kuadrat {num} adalah >>> {tebak}")
 
 
 angka = int(input("Masukkan angka bulat yang akan dicari akar kuadratnya >>>  "))
