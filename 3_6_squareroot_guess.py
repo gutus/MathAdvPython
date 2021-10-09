@@ -6,13 +6,14 @@ def rata_rata(a, b):
 
 def squareRoot(num, lo, hi):
     for i in range(20):
+        // Dalam(20) kali iterate diharapkan akar kuadrat akan segera ditemukan
         tebak = rata_rata(lo, hi)
         if tebak ** 2 == num:
             print(tebak)
-        elif tebak ** 2 > num:
+        elif tebak ** 2 > num:  # Jika tebakan ketinggian angka tebakan akan  diiterate dijadikan tebakan hi
             hi = tebak
         else:
-            lo = tebak
+            lo = tebak  # Jika tebakan ketinggian angka tebakan akan  diiterate dijadikan tebakan lo, amazing!
     print(tebak)
 
 
