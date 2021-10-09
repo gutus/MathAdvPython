@@ -5,8 +5,7 @@ def rata_rata(a, b):
 
 
 def squareRoot(num, lo, hi):
-    for i in range(20):
-        // Dalam(20) kali iterate diharapkan akar kuadrat akan segera ditemukan
+    for i in range(20):  # Dalam(20) kali iterate diharapkan akar kuadrat akan segera ditemukan
         tebak = rata_rata(lo, hi)
         if tebak ** 2 == num:
             print(tebak)
