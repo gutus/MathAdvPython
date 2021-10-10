@@ -16,7 +16,7 @@ print(
 x = equation(a, b, c, d)
 print("Persamaan  ax + b = cx + d >>> ")
 print(
-    f"\nPersamaan {Fraction(a)}*{x} + {Fraction(b)}= {Fraction(c)}*{x} + {Fraction(d)} ")
+    f"\nPersamaan {Fraction(a)}*{x} + {Fraction(b)m}= {Fraction(c)}*{x} + {Fraction(d)} ")
 print(f"\nSehingga >>> {a*x} + {b}= {c*x} + {d} ")
 
 # Periksa dengan memasukkan nilai equation (1/2,2/3,1/5,7/8) nilai x adalah 0.6944444444444446
