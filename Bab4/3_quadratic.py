@@ -1,7 +1,7 @@
 # Quadratic Formula
 # Untuk menyelesaikan persamaan kuadrat a*x**2 + bx + c = 0 >>> ax kuadrat + bx + c = 0
-# Menggunakan rumus x = (-b + sqrt(b**2 - 4*a*c))/(2*a)
-# Menggunakan rumus x = (-b - sqrt(b**2 - 4*a*c))/(2*a)
+# Menggunakan rumus x1 = (-b + sqrt(b**2 - 4*a*c))/(2*a)
+# Menggunakan rumus x2 = (-b - sqrt(b**2 - 4*a*c))/(2*a)
 
 from math import sqrt  # Mengimpor fungsi square root untuk mencari nilai akar kuadrat
 
