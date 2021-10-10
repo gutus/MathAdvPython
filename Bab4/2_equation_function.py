@@ -15,4 +15,4 @@ print(f"\nPersamaan {a}*{x} + {b}= {c}*{x} + {d} ")
 print(f"\nSehingga >>> {a*x} + {b}= {c*x} + {d} ")
 
 # Periksa dengan memasukkan nilai equation (2,5,0,13) nilai x adalah 4.0
-# Periksa dengan memasukkan nilai equation 12x+18= -34x +67 >>> (12,18,-34,67) nilai x adalah  ax + b = cx + d >>>
+# Periksa dengan memasukkan nilai equation 12x+18= -34x +67 >>> (12,18,-34,67) nilai x adalah  1.065217391304348
